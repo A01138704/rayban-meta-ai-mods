@@ -1,0 +1,48 @@
+.
+├── README.md
+├── __pycache__
+│   ├── capture_live_feed.cpython-310.pyc
+│   ├── face_detection.cpython-310.pyc
+│   └── hand_gesture_detection.cpython-310.pyc
+├── ai_builder_memory
+│   ├── summary.txt
+│   └── tree_structure.txt
+├── app
+│   └── fitness
+│       └── pushupsCounter
+│           ├── __pycache__
+│           │   └── pushup_pose_detection.cpython-310.pyc
+│           ├── main_pushup.py
+│           └── pushup_pose_detection.py
+├── app.py
+├── capture_live_feed.py
+├── live_feed.py
+├── main.py
+├── raybanmods_db
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   └── __init__.cpython-310.pyc
+│   ├── api
+│   │   └── meta_ai.py
+│   ├── facial_recognition
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-310.pyc
+│   │   │   ├── face_detection.cpython-310.pyc
+│   │   │   └── facial_recognition_api.cpython-310.pyc
+│   │   ├── face_detection.py
+│   │   └── facial_recognition_api.py
+│   ├── hand_gesture
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-310.pyc
+│   │   │   ├── hand_canvas_detection.cpython-310.pyc
+│   │   │   ├── hand_gesture_api.cpython-310.pyc
+│   │   │   └── hand_gesture_detection.cpython-310.pyc
+│   │   ├── hand_canvas_detection.py
+│   │   ├── hand_gesture_api.py
+│   │   └── hand_gesture_detection.py
+│   └── ocr
+└── requirements.txt
+
+15 directories, 31 files

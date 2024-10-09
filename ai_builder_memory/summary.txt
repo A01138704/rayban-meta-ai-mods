@@ -1,0 +1,2 @@
+The project captures a live feed from Instagram, detects hand gestures in the feed using the mediapipe library, and possibly applies modifications based on the detected gestures. The project uses the opencv-python, mediapipe, mss, and numpy libraries.
+The project is linked to the GitHub repository at https://github.com/A01138704/rayban-meta-ai-mods.git.
